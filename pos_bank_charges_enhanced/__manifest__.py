@@ -4,10 +4,10 @@
 #
 ################################################################################
 {
-    'name': 'Pos Bank Charges',
+    'name': 'Pos Bank Charges Enhanced',
     'version': '18.0.1.0.0',
     'category': 'Extra Tools',
-    'summary': """POS terminals charge customers a transaction fee when collecting payments.""",
+    'summary': """POS terminals charge customers a transaction fee when collecting payments.(Enhanced)""",
     'description': """POS terminals charge customers a transaction fee when collecting payments.""",
     'author': 'Charles Chang',
     'maintainer': 'Charles',
@@ -18,7 +18,7 @@
     ],
     "assets": {
         'point_of_sale._assets_pos': [
-            'pos_bank_charges/static/src/**/*',
+            'pos_bank_charges_enhanced/static/src/**/*',
         ],
     },
     'images': ['static/description/icon.png'],
