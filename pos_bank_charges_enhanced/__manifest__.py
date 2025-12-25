@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 ################################################################################
-#    Author: Charles
+#    Author: Don Shan
 #
 ################################################################################
 {
@@ -9,8 +9,8 @@
     'category': 'Extra Tools',
     'summary': """POS terminals charge customers a transaction fee when collecting payments.(Enhanced)""",
     'description': """POS terminals charge customers a transaction fee when collecting payments.""",
-    'author': 'Charles Chang',
-    'maintainer': 'Charles',
+    'author': 'Don Shan',
+    'maintainer': 'Don Shan',
     'depends': ['base', 'point_of_sale'],
     'data': [
         'data/product_product_data.xml',
